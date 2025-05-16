@@ -41,3 +41,4 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [ ] Sessão 3 - Rodapé - concluída
 - [ ] Refatoração
 - [ ] Projeto concluído
+- [ ] Projeto concluído
