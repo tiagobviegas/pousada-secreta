@@ -13,7 +13,7 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Reset CSS standard specs
 - [X] Definition of essential elements and common styles
 ### Main Page
-- [ ] Section 1 - Header - concluded
+- [X] Section 1 - Header - concluded
 - [ ] Section 2 - Content - concluded
 - [ ] Section 3 - Footer - concluded
 - [ ] Refactoring
@@ -31,7 +31,7 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Reset das especificações CSS padrões
 - [X] Definição de elementos essenciais e estilizações comuns
 ### Página Principal
-- [ ] Sessão 1 - Topo - concluída
+- [X] Sessão 1 - Topo - concluída
 - [ ] Sessão 2 - Conteúdo - concluída
 - [ ] Sessão 3 - Rodapé - concluída
 - [ ] Refatoração
