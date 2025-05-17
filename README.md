@@ -15,6 +15,11 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 ### Main Page
 - [X] Section 1 - Header - concluded
 - [ ] Section 2 - Content - concluded
+- [X] Section 2.1 - Banner - concluded
+- [ ] Section 2.2 - Welcome - concluded
+- [ ] Section 2.3 - Rooms - concluded
+- [ ] Section 2.4 - Location - concluded
+- [ ] Section 2.5 - About - concluded
 - [ ] Section 3 - Footer - concluded
 - [ ] Refactoring
 ### Rooms Page
@@ -31,14 +36,18 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Reset das especificações CSS padrões
 - [X] Definição de elementos essenciais e estilizações comuns
 ### Página Principal
-- [X] Sessão 1 - Topo - concluída
-- [ ] Sessão 2 - Conteúdo - concluída
-- [ ] Sessão 3 - Rodapé - concluída
+- [X] Section 1 - Topo - concluded
+- [ ] Section 2 - Conteúdo - concluded
+- [X] Section 2.1 - Banner - concluded
+- [ ] Section 2.2 - Boas-vindas - concluded
+- [ ] Section 2.3 - Quartos - concluded
+- [ ] Section 2.4 - Localização - concluded
+- [ ] Section 2.5 - Sobre - concluded
+- [ ] Section 3 - Rodapé - concluded
 - [ ] Refatoração
 ### Página Quartos
 - [ ] Sessão 1 - Topo - concluída
 - [ ] Sessão 2 - Conteúdo - concluída
 - [ ] Sessão 3 - Rodapé - concluída
 - [ ] Refatoração
-- [ ] Projeto concluído
 - [ ] Projeto concluído
