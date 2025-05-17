@@ -9,9 +9,9 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 
 ## PROGRESS
 
-- [ ] HTML structuring for styling work
-- [ ] Reset CSS standard specs
-- [ ] Definition of essential elements and common styles
+- [X] HTML structuring for styling work
+- [X] Reset CSS standard specs
+- [X] Definition of essential elements and common styles
 ### Main Page
 - [ ] Section 1 - Header - concluded
 - [ ] Section 2 - Content - concluded
@@ -27,9 +27,9 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 
 ## PROGRESSO
 
-- [ ] Estruturação da página HTML para posterior estilização
-- [ ] Reset das especificações CSS padrões
-- [ ] Definição de elementos essenciais e estilizações comuns
+- [X] Estruturação da página HTML para posterior estilização
+- [X] Reset das especificações CSS padrões
+- [X] Definição de elementos essenciais e estilizações comuns
 ### Página Principal
 - [ ] Sessão 1 - Topo - concluída
 - [ ] Sessão 2 - Conteúdo - concluída
