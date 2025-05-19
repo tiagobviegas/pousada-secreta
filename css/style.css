@@ -4,15 +4,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-/* General styles */
-
-body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-/* Header Section */
+/* Header Section ==================================================================== */
 
 .header-container {
   position: fixed;
@@ -26,6 +21,7 @@ body {
   margin: 0px auto;
   padding: 15px 55px;
   width: 100%;
+  height: 6vh;
   max-width: 1024px;
   font-size: 18px;
   align-items: center;
@@ -56,17 +52,19 @@ body {
   color: #007fc9;
 }
 
-/* Content Section | Seção Conteúdo */
+/* Content Section | Seção Conteúdo ===================================================== */
+
+/* Subsection Banner | Subseção Banner ================================================== */
 
 .container-content {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
-  background-color: lightblue;
+  /* background-color: lightblue; */
 }
 
-.content-1 {
+.container-banner {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -77,10 +75,11 @@ body {
   background-size: cover;
   background-position: fit-content;
   width: 100%;
+  /* max-width: 1024px; */
   height: 65vh;
 }
 
-.subcontainer-1 {
+.subcontainer-banner {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -93,12 +92,149 @@ body {
   padding: 0 20px;
 }
 
-.subcontainer-1 h1 {
+.subcontainer-title {
   font-size: 50px;
   font-weight: 700;
 }
 
-.subcontainer-1 p {
+.subcontainer-text {
   font-size: 25px;
   font-weight: 600;
+}
+
+/* Box Texts | Box de Textos ========================================================== */
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.text-subcontainer {
+  display: flex;
+  width: 100%;
+  max-width: 1024px;
+  height: 24vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  color: #3d3d3d;
+}
+
+.text-title {
+  padding-top: 10px;
+  font-size: 30px;
+  margin: 10px 0;
+  font-weight: 400;
+}
+
+.text-description {
+  font-size: 14px;
+}
+
+/* Rooms Section | Seção Quartos ======================================================== */
+
+.container-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+}
+
+.subcontainer-cards {
+  display: flex;
+  width: 100%;
+  max-width: 1024px;
+  flex-flow: row wrap;
+  align-items: center;
+  gap: 30px;
+  justify-content: space-evenly;
+}
+
+.container-card-rooms {
+  display: flex;
+  flex-direction: column;
+  height: 28vh;
+  align-items: center;
+  justify-content: space-between;
+  flex: 0 1 301px;
+  border-bottom: 2px solid #447871;
+}
+.card-rooms-img {
+  width: 300px;
+}
+
+.rooms-links {
+  text-decoration: none;
+  padding-bottom: 18px;
+  color: #3d3d3d;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Our Location Section | Seção Rota ======================================================== */
+
+.map-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.map-iframe {
+  width: 100%;
+  height: 40vh;
+  border: none;
+}
+
+/* About Section | Seção Sobre ============================================================ */
+
+.container-about-features {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  width: 100%;
+  max-width: 1024px;
+  gap: 30px;
+  margin-bottom: 60px;
+}
+
+.container-card-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 20px;
+  flex: 1 1 394px;
+}
+
+.subcontainer-card-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 0 10px;
+}
+
+.text-card-about {
+  font-size: 15px;
+}
+
+.title-card-about {
+  font-size: 18px;
+}
+
+.img-card-about {
+  width: 100px;
+  height: 120px;
+}
+
+/* Footer Section | Seção Rodapé ============================================================*/
+
+.container-footer {
+  background-color: lightcoral;
 }
