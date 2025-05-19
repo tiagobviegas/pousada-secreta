@@ -14,12 +14,12 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Definition of essential elements and common styles
 ### Main Page
 - [X] Section 1 - Header - concluded
-- [ ] Section 2 - Content - concluded
+- [X] Section 2 - Content - concluded
 - [X] Section 2.1 - Banner - concluded
-- [ ] Section 2.2 - Welcome - concluded
-- [ ] Section 2.3 - Rooms - concluded
-- [ ] Section 2.4 - Location - concluded
-- [ ] Section 2.5 - About - concluded
+- [X] Section 2.2 - Welcome - concluded
+- [X] Section 2.3 - Rooms - concluded
+- [X] Section 2.4 - Location - concluded
+- [X] Section 2.5 - About - concluded
 - [ ] Section 3 - Footer - concluded
 - [ ] Refactoring
 ### Rooms Page
@@ -37,12 +37,12 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Definição de elementos essenciais e estilizações comuns
 ### Página Principal
 - [X] Section 1 - Topo - concluded
-- [ ] Section 2 - Conteúdo - concluded
+- [X] Section 2 - Conteúdo - concluded
 - [X] Section 2.1 - Banner - concluded
-- [ ] Section 2.2 - Boas-vindas - concluded
-- [ ] Section 2.3 - Quartos - concluded
-- [ ] Section 2.4 - Localização - concluded
-- [ ] Section 2.5 - Sobre - concluded
+- [X] Section 2.2 - Boas-vindas - concluded
+- [X] Section 2.3 - Quartos - concluded
+- [X] Section 2.4 - Localização - concluded
+- [X] Section 2.5 - Sobre - concluded
 - [ ] Section 3 - Rodapé - concluded
 - [ ] Refatoração
 ### Página Quartos
