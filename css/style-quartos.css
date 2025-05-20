@@ -1,13 +1,75 @@
+/* Common Styles ======================================================================== */
+
+.content-container, .features-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* Subsection Banner | Subseção Banner ================================================== */
 
 .container-banner-rooms {
   height: 18vh;
 }
 
-/* Content Section ====================================================================== */
 
-.content-container, .features-container {
+/* CONTENT SECTION ====================================================================== */
+
+/* Gallery ============================================================================== */
+
+.gallery-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
+  max-width: 1024px;
+}
+
+.gallery-img-container {
+  align-items: center;
+}
+
+.gallery-img {
+  display: flex;
+  flex-direction: row;
+  width: 320px;
+  max-height: 200px;
+}
+
+/* Features ============================================================================ */
+
+.features-container {
   display: flex;
   flex-direction: column;
+  width: 100%;
+}
+
+.features-subcontainer {
+  justify-content: center;
+  padding: 0px 70px;
+  height: 24vh;
+  width: 100%;
+  max-width: 1024px;
+}
+
+.features-title {
+  font-size: 18px;
+  padding: 20px 0;
+}
+
+.feature-list {
+  display: flex;
+  width: 100%;
+  max-width: 1024px;
   align-items: center;
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+.list-items {
+  font-size: 15px;
+  line-height: 30px;
+  width: 200px;
 }

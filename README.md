@@ -21,13 +21,13 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Section 2.4 - Location - concluded
 - [X] Section 2.5 - About - concluded
 - [X] Section 3 - Footer - concluded
-- [ ] Refactoring
+- [X] Refactoring
 ### Rooms Page
 - [X] Section 1 - Header - concluded
-- [ ] Section 2 - Content - concluded
+- [X] Section 2 - Content - concluded
 - [X] Section 3 - Footer - concluded
-- [ ] Refactoring
-- [ ] Project concluded
+- [X] Refactoring
+- [X] Project concluded
 
 
 ## PROGRESSO
@@ -44,10 +44,10 @@ Projeto de um site para uma pousada fictícia com foco na prática de alinhament
 - [X] Section 2.4 - Localização - concluded
 - [X] Section 2.5 - Sobre - concluded
 - [X] Section 3 - Rodapé - concluded
-- [ ] Refatoração
+- [X] Refatoração
 ### Página Quartos
 - [X] Sessão 1 - Topo - concluída
-- [ ] Sessão 2 - Conteúdo - concluída
+- [X] Sessão 2 - Conteúdo - concluída
 - [X] Sessão 3 - Rodapé - concluída
-- [ ] Refatoração
-- [ ] Projeto concluído
+- [X] Refatoração
+- [X] Projeto concluído
